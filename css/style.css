@@ -10,7 +10,7 @@ body {
   width: 50%;
 }
 
-.top-list-container {
+nav {
   border-bottom: 1px solid lightgray;
   padding-right: 16px;
 }
