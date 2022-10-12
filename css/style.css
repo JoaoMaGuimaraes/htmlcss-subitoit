@@ -314,16 +314,65 @@ h2 {
 }
 
 .green_cover_txt h4 {
-    color: red;
+  color: red;
 }
 
 .green_cover_txt h2 {
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 .green_cover_txt p {
-    color: gray;
-    font-weight: bold;
-    margin-top: -22px;
+  color: gray;
+  font-weight: bold;
+  margin-top: -22px;
 }
 
+/* SAFETY */
+
+.lorem_container {
+  width: 100%;
+  margin: 55px 0;
+  background-color: #f7f8fb;
+  text-align: center;
+}
+
+.col_lorem {
+  display: inline-block;
+  /* width: calc(100% / 3); */
+  margin: 0 -2px auto;
+  padding: 16px;
+}
+.col_lorem h2 {
+  text-align: left;
+  margin: 20px auto;
+}
+
+.safety {
+  position: relative;
+}
+
+.safety img {
+  width: 280px;
+  height: 250px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.lorem_txt {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  font-size: 16px;
+  padding: 48px 16px;
+  color: #3c4858;
+}
+
+.disc_txt {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 26px 16px;
+  color: red;
+}
