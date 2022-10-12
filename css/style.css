@@ -401,3 +401,42 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
+/* LEARN MORE */
+.learn_more h2 {
+  text-align: left;
+}
+
+.motori h4 {
+  color: #2650ff;
+  margin-top: 8px;
+}
+
+.learn-list-link {
+  /* border-right: 2px solid lightgray; */
+  /* line-height: 5px; */
+  /* padding: 4px; */
+  font-size: 12px;
+  display: inline-block;
+}
+
+.motori span {
+  color: #3c4858;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.market h4 {
+  color: #f2a700;
+  margin-top: 8px;
+}
+
+.immobili h4 {
+  color: #9924ff;
+  margin-top: 8px;
+}
+
+.lavoro h4 {
+  color: #07bb9c;
+  margin-top: 8px;
+}
